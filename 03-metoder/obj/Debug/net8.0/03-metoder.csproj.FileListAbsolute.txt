@@ -1,0 +1,14 @@
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\bin\Debug\net8.0\03-metoder.exe
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\bin\Debug\net8.0\03-metoder.deps.json
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\bin\Debug\net8.0\03-metoder.runtimeconfig.json
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\bin\Debug\net8.0\03-metoder.dll
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\bin\Debug\net8.0\03-metoder.pdb
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\obj\Debug\net8.0\03-metoder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\obj\Debug\net8.0\03-metoder.AssemblyInfoInputs.cache
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\obj\Debug\net8.0\03-metoder.AssemblyInfo.cs
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\obj\Debug\net8.0\03-metoder.csproj.CoreCompileInputs.cache
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\obj\Debug\net8.0\03-metoder.dll
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\obj\Debug\net8.0\refint\03-metoder.dll
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\obj\Debug\net8.0\03-metoder.pdb
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\obj\Debug\net8.0\03-metoder.genruntimeconfig.cache
+c:\Users\isak.eriksson4\proggramering\03-metoder\03-metoder\obj\Debug\net8.0\ref\03-metoder.dll
